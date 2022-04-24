@@ -1,4 +1,4 @@
-# ActionKV
+# ActionKV [![Build](https://github.com/leonardovee/action-kv/actions/workflows/rust.yml/badge.svg)](https://github.com/leonardovee/action-kv/actions/workflows/rust.yml)
 
 A key-value store, actionkv, stores and retrieves sequences of bytes of arbitrary length. 
 
